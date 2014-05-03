@@ -1,0 +1,5 @@
+Dungeon Keeper Gold Trainer
+===
+When Dungeon Keeper was given out for free by GOG a couple months ago I grabbed a copy with the intent to train this wonderful game that was one of the first I ever played! Note that this is intended to be run with Dosbox and if you have the original, it may not work due to memory address changes. Also, there is no injector included in this code at this time, you will have to use the one provided by security xploded (or any other you want).
+
+This code currently will only train the users gold (on singleplayer), but I do have more planned when the time becomes available. This code base does inject a .dll with the hotkey trigger being the Numpad's 0 key instead of using a console application. I hope to change this code to be a little more organized and object oriented instead of so procedural, but it works for now.
